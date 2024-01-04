@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/iamshaibaz/" target="blank"><img align="center" src="https://img.shields.io/badge/-Shaibaz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shaik-abdul-shahriar-475a83167/" alt="Shahriar" /></a>
+<a href="https://www.linkedin.com/in/shaik-abdul-shahriar-475a83167/" target="blank"><img align="center" src="https://img.shields.io/badge/-Shahriar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shaik-abdul-shahriar-475a83167/" alt="Shahriar" /></a>
 
 
 </p>
